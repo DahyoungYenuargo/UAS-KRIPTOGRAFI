@@ -7,12 +7,13 @@ Perintah Enkrip dan Dekrip di CMD :
 
 Plainteks :
 
-![image](https://user-images.githubusercontent.com/121510749/212317602-885951ff-3c69-40ea-879f-9bc48d4c2b3f.png)
+![image](https://user-images.githubusercontent.com/121510749/212318870-497a5c52-8a27-4782-b3e1-168b685c588a.png)
 
 a. Hasil Enkrip :
 
-![image](https://user-images.githubusercontent.com/121510749/212317910-5acb4916-6bf6-454b-a859-c0cba541c68b.png)
+![image](https://user-images.githubusercontent.com/121510749/212319268-c033d9a8-6ab7-4031-a2b0-b957f8f1ca6b.png)
 
 b. Hasil Dekrip :
 
-![image](https://user-images.githubusercontent.com/121510749/212318076-4e0932a5-d663-49bc-a4b5-4edfc2ae705b.png)
+![image](https://user-images.githubusercontent.com/121510749/212319504-0bbf350d-f3ac-4d11-875d-6d567fa327d6.png)
+
