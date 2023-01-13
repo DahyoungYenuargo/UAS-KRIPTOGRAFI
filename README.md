@@ -1,6 +1,10 @@
 # UAS-KRIPTOGRAFI
 Ujian Akhir Semester 5
 
+Perintah Enkrip dan Dekrip di CMD :
+
+![image](https://user-images.githubusercontent.com/121510749/212318572-8e6266d5-3e85-47d8-9569-c03b293d7570.png)
+
 Plainteks :
 
 ![image](https://user-images.githubusercontent.com/121510749/212317602-885951ff-3c69-40ea-879f-9bc48d4c2b3f.png)
